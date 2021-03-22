@@ -1,0 +1,28 @@
+{
+    "response":{
+        "body":{
+            "branding": {
+                "name": "eurowag",
+                "primary": "#274388",
+                "primaryLight": "#6a7ba3",
+                "primaryText": "#ffffff",
+                "secondary": "#25a6e4",
+                "secondaryText": "#ffffff",
+                "colorLabel": "#ffffff",
+                "colorTextLabel": "#274388",
+                "colorTextLabelLight": "#898d8d",
+                "colorSecondLabel": "#d9dee3",
+                "colorTextSecondLabel": "#898d8d",
+                "colorBackground": "#d9dee3",
+                "colorSelectButton": "#274388",
+                "colorHoverSelectButton": "#25a6e4",
+                "colorTextSelectButton": "#ffffff",
+                "colorShadow": "#898d8d",
+                "colorCheckmark": "#25a6e4",
+                "colorWarning": "#ef3b24",
+                "colorTrue": "#76c14e",
+                "colorFalse": "#ef3b24"
+            }
+        }
+    }
+}
