@@ -1,0 +1,24 @@
+{
+    "branding": {
+        "name": "string",
+        "primary": "string",
+        "primaryLight": "string",
+        "primaryText": "string",
+        "secondary": "string",
+        "secondaryText": "string",
+        "colorLabel": "string",
+        "colorTextLabel": "string",
+        "colorTextLabelLight": "string",
+        "colorSecondLabel": "string",
+        "colorTextSecondLabel": "string",
+        "colorBackground": "string",
+        "colorSelectButton": "string",
+        "colorHoverSelectButton": "string",
+        "colorTextSelectButton": "string",
+        "colorShadow": "string",
+        "colorCheckmark": "string",
+        "colorWarning": "string",
+        "colorTrue": "string",
+        "colorFalse": "string"
+    }   
+}
